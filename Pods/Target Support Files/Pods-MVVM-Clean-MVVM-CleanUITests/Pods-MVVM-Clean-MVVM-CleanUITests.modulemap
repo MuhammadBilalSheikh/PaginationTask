@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Clean_MVVM_CleanUITests {
+  umbrella header "Pods-MVVM-Clean-MVVM-CleanUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
