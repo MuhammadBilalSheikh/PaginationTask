@@ -1,4 +1,4 @@
-# Maqsad Test Project
+# Test Project
 
 ## Introduction
 
